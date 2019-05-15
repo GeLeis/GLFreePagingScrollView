@@ -14,6 +14,7 @@
 		2813D69E22827FA1004EA6D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2813D69C22827FA1004EA6D8 /* LaunchScreen.storyboard */; };
 		2813D6A122827FA1004EA6D8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2813D6A022827FA1004EA6D8 /* main.m */; };
 		2813D6A922827FE4004EA6D8 /* GLFreePagingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2813D6A822827FE4004EA6D8 /* GLFreePagingView.m */; };
+		28AE1F9F2283BD4B003CC798 /* GLFreePagingLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 28AE1F9E2283BD4B003CC798 /* GLFreePagingLayout.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		2813D6A022827FA1004EA6D8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2813D6A722827FE4004EA6D8 /* GLFreePagingView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GLFreePagingView.h; sourceTree = "<group>"; };
 		2813D6A822827FE4004EA6D8 /* GLFreePagingView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GLFreePagingView.m; sourceTree = "<group>"; };
+		28AE1F9D2283BD4B003CC798 /* GLFreePagingLayout.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GLFreePagingLayout.h; sourceTree = "<group>"; };
+		28AE1F9E2283BD4B003CC798 /* GLFreePagingLayout.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GLFreePagingLayout.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				2813D6A822827FE4004EA6D8 /* GLFreePagingView.m */,
 				2813D69422827FA0004EA6D8 /* ViewController.h */,
 				2813D69522827FA0004EA6D8 /* ViewController.m */,
+				28AE1F9D2283BD4B003CC798 /* GLFreePagingLayout.h */,
+				28AE1F9E2283BD4B003CC798 /* GLFreePagingLayout.m */,
 				2813D69722827FA0004EA6D8 /* Main.storyboard */,
 				2813D69A22827FA1004EA6D8 /* Assets.xcassets */,
 				2813D69C22827FA1004EA6D8 /* LaunchScreen.storyboard */,
@@ -146,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28AE1F9F2283BD4B003CC798 /* GLFreePagingLayout.m in Sources */,
 				2813D6A922827FE4004EA6D8 /* GLFreePagingView.m in Sources */,
 				2813D69622827FA0004EA6D8 /* ViewController.m in Sources */,
 				2813D6A122827FA1004EA6D8 /* main.m in Sources */,
