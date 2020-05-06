@@ -1,2 +1,2 @@
 # GLFreePagingScrollView
-scrollView 阻力/自定义分页大小
+[项目文档](https://www.jianshu.com/p/ec4ed6809a0d)
